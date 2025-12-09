@@ -32,6 +32,7 @@
 </div>
 
 
+
 <hr>
 <div align="center">
   <a href="#bottom"><img width="150" src="https://skillicons.dev/icons?i=ae,ps,blender" alt="Skills Icons" /></a>
@@ -41,4 +42,5 @@
 
 <div align="center">
 <a href="https://ko-fi.com/hamgarian"><img width="300" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
+<a href="https://saweria.co/hamgarian"><img width="300" src="https://github.com/user-attachments/assets/33439a14-ad96-4527-a880-2ca81e8d0434" alt="saweria" /></a>
 </div>
