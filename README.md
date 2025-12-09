@@ -38,3 +38,7 @@
 </div>
 
 <p id="bottom"></p>
+
+<div align="center">
+<a href="https://ko-fi.com/hamgarian"><img width="300" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
+</div>
