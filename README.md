@@ -4,8 +4,6 @@
 
 
 
-<a href="#bottom">![Untitled (3)](https://github.com/user-attachments/assets/f24ecbb8-9de6-4364-ac76-d5fbc5564c99)</a>
-
 <div align="center">
   <a href="#bottom"><code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code></a>
   <a href="#bottom"><code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code></a>
