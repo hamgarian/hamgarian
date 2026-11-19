@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="./banner.webp" width="720" alt="Hamgarian - Fullstack / Game Dev. Interested in cybersecurity, automation, AI, and creative technology" />
-</p>
+<img width="752" height="452" alt="v01_calm" src="https://github.com/user-attachments/assets/a940034f-41aa-4638-b084-e07079300067" />
