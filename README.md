@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./puppet.webp" width="500" alt="animated character" />
+  <img src="./banner.webp" width="720" alt="Hamgarian - Fullstack / Game Dev. Interested in cybersecurity, automation, AI, and creative technology" />
 </p>
